@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NotNishanXD/NotNishanXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nishan;I+Luv+Coding;I+use+Windows+btw;Building+Bots/Selfbots" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+  <br/>
+  <img src="assets/nishan.gif" width="350" style="border-radius: 10px;" />
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+  <h3>Developer  •  Anime  •  Raiding  •  Music  •  Windows</h3>
+  <br/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,tailwind,mongodb,vscode,vercel,windows&theme=dark" />
+  </a>
+  <br/><br/>
+
+  <a href="https://discord.com/users/1118496761435136040" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1118496761435136040?bg=0d1117&borderRadius=10px&idleMessage=wsp&theme=dark&showDisplayName=true" />
+  </a>
+  
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=BB6BD9&text=Profile%20Views&height=30&fontSize=20" alt="Profile Views Label" />
+  <br/>
+  <img src="https://count.getloli.com/@manishbhaiii?name=manishbhaiii&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
+  
+  <br/><br/>
+
+  <p>
+    <a href="https://discord.gg/hZf4j8GzzK" target="_blank">
+      <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://www.youtube.com/@N1shanIsVillain" target="_blank">
+      <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/senpaispideryt/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manishbhaiii&show_icons=true&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e&icon_color=BB6BD9" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishbhaiii&layout=compact&theme=transparent&hide_border=true&title_color=BB6BD9&text_color=8b949e" height="140"/>
+</div>
+
+<div align="center">
+  <br/><br/>
+  <a href="https://github.com/NotNishanXD">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishbhaiii/manishbhaiii/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishbhaiii/manishbhaiii/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/manishbhaiii/manishbhaiii/refs/heads/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
