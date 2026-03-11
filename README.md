@@ -28,7 +28,7 @@
   <br/><br/>
 
   <p>
-    <a href="https://discord.gg/hZf4j8GzzK" target="_blank">
+    <a href="https://discord.gg/fyECbrZstj" target="_blank">
       <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
     </a>
     <a href="https://www.youtube.com/@N1shanIsVillain" target="_blank">
