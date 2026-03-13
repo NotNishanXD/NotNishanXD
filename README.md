@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=BB6BD9&center=true&vCenter=true&width=500&lines=Hi,+I'm+Nishan;I+Luv+Coding;I+use+Windows+btw;Building+Bots/Selfbots" alt="Typing SVG" />
 
   <br/>
-  <img src="assets/nishan.gif" width="350" style="border-radius: 10px;" />
+  <img src="assets/nishan.png" width="350" style="border-radius: 10px;" />
   <br/>
 
   <br/>
